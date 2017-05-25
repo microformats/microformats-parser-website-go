@@ -26,10 +26,10 @@
 			"revisionTime": "2017-05-25T20:36:34Z"
 		},
 		{
-			"checksumSHA1": "ZBm8ZCzoqb8jGDphnMCam622i9Q=",
+			"checksumSHA1": "K7x3/taoUCOya97GiTdWyinARrQ=",
 			"path": "willnorris.com/go/microformats/cmd/gomfweb",
-			"revision": "1ae4d7fe71d003f7e3b30f863904419a720c723c",
-			"revisionTime": "2017-05-25T20:36:34Z"
+			"revision": "f9e0f6bacfe6c5644bbce1ce5ba465ee47f0090b",
+			"revisionTime": "2017-05-25T21:37:42Z"
 		}
 	],
 	"rootPath": "willnorris.com/go/gomfweb"
