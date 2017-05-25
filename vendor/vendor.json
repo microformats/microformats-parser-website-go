@@ -1,0 +1,36 @@
+{
+	"comment": "",
+	"heroku": {
+		"install": [
+			"willnorris.com/go/microformats/cmd/gomfweb"
+		]
+	},
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "dcOJtT2YpM6/qNQUa+IGGjFUy0k=",
+			"path": "golang.org/x/net/html",
+			"revision": "7dcfb8076726a3fdd9353b6b8a1f1b6be6811bd6",
+			"revisionTime": "2017-05-25T01:14:41Z"
+		},
+		{
+			"checksumSHA1": "d0cHqbxWKgnlFOfg2fEDpJbjaQ0=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "7dcfb8076726a3fdd9353b6b8a1f1b6be6811bd6",
+			"revisionTime": "2017-05-25T01:14:41Z"
+		},
+		{
+			"checksumSHA1": "RXe3Zjawe4OJfhp/WZhjY1eC4sk=",
+			"path": "willnorris.com/go/microformats",
+			"revision": "1ae4d7fe71d003f7e3b30f863904419a720c723c",
+			"revisionTime": "2017-05-25T20:36:34Z"
+		},
+		{
+			"checksumSHA1": "ZBm8ZCzoqb8jGDphnMCam622i9Q=",
+			"path": "willnorris.com/go/microformats/cmd/gomfweb",
+			"revision": "1ae4d7fe71d003f7e3b30f863904419a720c723c",
+			"revisionTime": "2017-05-25T20:36:34Z"
+		}
+	],
+	"rootPath": "willnorris.com/go/gomfweb"
+}
