@@ -9,22 +9,22 @@
 	"ignore": "",
 	"package": [
 		{
-			"checksumSHA1": "dcOJtT2YpM6/qNQUa+IGGjFUy0k=",
+			"checksumSHA1": "HbzcWyJc2pqHUALabozQy62AGBg=",
 			"path": "golang.org/x/net/html",
-			"revision": "7dcfb8076726a3fdd9353b6b8a1f1b6be6811bd6",
-			"revisionTime": "2017-05-25T01:14:41Z"
+			"revision": "640f4622ab692b87c2f3a94265e6f579fe38263d",
+			"revisionTime": "2018-05-02T16:14:02Z"
 		},
 		{
-			"checksumSHA1": "d0cHqbxWKgnlFOfg2fEDpJbjaQ0=",
+			"checksumSHA1": "EyHxARXNgW+jgU4s7K2Vig1fWFk=",
 			"path": "golang.org/x/net/html/atom",
-			"revision": "7dcfb8076726a3fdd9353b6b8a1f1b6be6811bd6",
-			"revisionTime": "2017-05-25T01:14:41Z"
+			"revision": "640f4622ab692b87c2f3a94265e6f579fe38263d",
+			"revisionTime": "2018-05-02T16:14:02Z"
 		},
 		{
-			"checksumSHA1": "RXe3Zjawe4OJfhp/WZhjY1eC4sk=",
+			"checksumSHA1": "JEepwn7IUmMf+pLj79gR0iT5IEE=",
 			"path": "willnorris.com/go/microformats",
-			"revision": "1ae4d7fe71d003f7e3b30f863904419a720c723c",
-			"revisionTime": "2017-05-25T20:36:34Z"
+			"revision": "70382cfd78f16af81ef61eec447ba26d0bb2d878",
+			"revisionTime": "2018-04-24T17:27:06Z"
 		},
 		{
 			"checksumSHA1": "K7x3/taoUCOya97GiTdWyinARrQ=",
