@@ -3,6 +3,7 @@
 Website for Microformats Go parser (based on pin13.net by @aaronpk).
 https://go.microformats.io
 
+Heroku wrapper for the Go microformats demo app.
 
 ## gomfweb
 
