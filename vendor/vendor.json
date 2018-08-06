@@ -9,19 +9,19 @@
 	"ignore": "",
 	"package": [
 		{
-			"checksumSHA1": "HbzcWyJc2pqHUALabozQy62AGBg=",
+			"checksumSHA1": "DBym/gF/V6jnYL6JiQM5Tm3RfFw=",
 			"path": "golang.org/x/net/html",
-			"revision": "640f4622ab692b87c2f3a94265e6f579fe38263d",
-			"revisionTime": "2018-05-02T16:14:02Z"
+			"revision": "f4c29de78a2a91c00474a2e689954305c350adf9",
+			"revisionTime": "2018-08-01T01:39:56Z"
 		},
 		{
-			"checksumSHA1": "EyHxARXNgW+jgU4s7K2Vig1fWFk=",
+			"checksumSHA1": "G9rMeAWWyMDyuH8gujJlPDl6pN8=",
 			"path": "golang.org/x/net/html/atom",
-			"revision": "640f4622ab692b87c2f3a94265e6f579fe38263d",
-			"revisionTime": "2018-05-02T16:14:02Z"
+			"revision": "f4c29de78a2a91c00474a2e689954305c350adf9",
+			"revisionTime": "2018-08-01T01:39:56Z"
 		},
 		{
-			"checksumSHA1": "JEepwn7IUmMf+pLj79gR0iT5IEE=",
+			"checksumSHA1": "6H04oP5zjhhmBoAAw1JIoFJIkp8=",
 			"path": "willnorris.com/go/microformats",
 			"revision": "70382cfd78f16af81ef61eec447ba26d0bb2d878",
 			"revisionTime": "2018-04-24T17:27:06Z"
@@ -33,5 +33,5 @@
 			"revisionTime": "2017-05-25T21:37:42Z"
 		}
 	],
-	"rootPath": "willnorris.com/go/gomfweb"
+	"rootPath": "github.com/indieweb/microformats-parser-website-go"
 }
