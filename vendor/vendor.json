@@ -21,16 +21,16 @@
 			"revisionTime": "2018-08-01T01:39:56Z"
 		},
 		{
-			"checksumSHA1": "pzZ4y+cPGt03IAwf2W/kW1AJ1rM=",
+			"checksumSHA1": "SpcKDPyAtanJcoI+p2Vv1YwwP/Y=",
 			"path": "willnorris.com/go/microformats",
-			"revision": "7b30daf75e1fdf7b90be2125d2e2cc959e2a06e4",
-			"revisionTime": "2018-08-19T10:17:44Z"
+			"revision": "2eb852e5ebac3d6744008549a08817fa46620269",
+			"revisionTime": "2018-09-13T15:36:13Z"
 		},
 		{
-			"checksumSHA1": "mAM6IKNlKXWOwk37uxJA/VatqBg=",
+			"checksumSHA1": "OzkiAqGeDXsBCU+H4j/yFL+6RqU=",
 			"path": "willnorris.com/go/microformats/cmd/gomfweb",
-			"revision": "70382cfd78f16af81ef61eec447ba26d0bb2d878",
-			"revisionTime": "2018-04-24T17:27:06Z"
+			"revision": "2eb852e5ebac3d6744008549a08817fa46620269",
+			"revisionTime": "2018-09-13T15:36:13Z"
 		}
 	],
 	"rootPath": "github.com/microformats/microformats-parser-website-go"
