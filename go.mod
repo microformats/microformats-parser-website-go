@@ -2,7 +2,6 @@
 
 module github.com/microformats/microformats-parser-website-go
 
-require (
-	golang.org/x/net v0.0.0-20180801234040-f4c29de78a2a
-	willnorris.com/go/microformats v1.0.0
-)
+go 1.14
+
+require willnorris.com/go/microformats v1.1.0
